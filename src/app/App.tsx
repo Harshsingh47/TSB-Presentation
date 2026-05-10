@@ -114,6 +114,18 @@ export default function App() {
 
       {/* Navigation Controls */}
       <div className="bg-slate-900/80 backdrop-blur-md border-t border-slate-800 p-3 flex items-center justify-between z-20">
+        <div className="flex items-center gap-3">
+          <div className="w-10 h-10 bg-white rounded-lg flex items-center justify-center p-1.5 shadow-lg">
+            <img 
+              src="/logo the swasth bharat (1).png" 
+              alt="Logo" 
+              className="w-full h-full object-contain"
+            />
+          </div>
+          <div className="hidden sm:block text-xs font-bold text-white tracking-widest uppercase opacity-80">
+            The Swasth Bharat
+          </div>
+        </div>
         <button
           onClick={prevSlide}
           className="group flex items-center gap-2 px-4 py-2 bg-slate-800 hover:bg-slate-700 text-white rounded-xl transition-all active:scale-95 shadow-lg border border-slate-700"

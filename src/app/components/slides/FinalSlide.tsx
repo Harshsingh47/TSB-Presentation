@@ -16,10 +16,14 @@ export default function FinalSlide() {
           initial={{ scale: 0 }}
           animate={{ scale: 1 }}
           transition={{ type: "spring", stiffness: 200 }}
-          className="mb-8 flex justify-center"
+          className="mb-10 flex justify-center"
         >
-          <div className="w-24 h-24 bg-gradient-to-br from-emerald-500 to-blue-600 rounded-full flex items-center justify-center">
-            <Heart className="w-14 h-14 text-white" />
+          <div className="w-40 h-40 bg-white rounded-full flex items-center justify-center p-6 shadow-2xl">
+            <img 
+              src="/logo the swasth bharat (1).png" 
+              alt="Swasth Bharat Logo" 
+              className="w-full h-full object-contain"
+            />
           </div>
         </motion.div>
         <motion.h2 

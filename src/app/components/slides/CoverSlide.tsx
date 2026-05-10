@@ -16,10 +16,14 @@ export default function CoverSlide() {
           initial={{ scale: 0 }}
           animate={{ scale: 1 }}
           transition={{ type: "spring", stiffness: 260, damping: 20 }}
-          className="mb-6 flex justify-center"
+          className="mb-8 flex justify-center"
         >
-          <div className="w-20 h-20 bg-emerald-500 rounded-full flex items-center justify-center">
-            <Heart className="w-12 h-12 text-white" />
+          <div className="w-32 h-32 bg-white rounded-full flex items-center justify-center p-4 shadow-2xl">
+            <img 
+              src="/logo the swasth bharat (1).png" 
+              alt="Swasth Bharat Logo" 
+              className="w-full h-full object-contain"
+            />
           </div>
         </motion.div>
         <motion.h1 
