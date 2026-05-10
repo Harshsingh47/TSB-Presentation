@@ -1,0 +1,426 @@
+Create a premium, emotionally impactful, investor-focused 15-slide PowerPoint presentation for a healthcare and social welfare initiative named “Swasth Bharat”, originating from Himachal Pradesh, India.
+
+The presentation should beautifully combine:
+- Healthcare awareness
+- Social impact
+- Community welfare
+- Himachali culture and identity
+- Rural healthcare transformation
+- Youth and volunteer engagement
+- Investor-ready NGO storytelling
+- Community empowerment
+
+The PPT should feel like:
+- A mission-driven healthcare movement born in Himachal Pradesh
+- A community-powered healthcare awareness initiative
+- A healthcare awareness revolution inspired by Himachali values, culture, and community spirit
+- A scalable social impact ecosystem expanding from Himachal Pradesh to all of India
+- A visionary and highly impactful initiative for investors, NGOs, CSR partnerships, healthcare organizations, and sponsors
+
+IMPORTANT:
+- Do NOT include coding, technical stack, backend/frontend, APIs, databases, or software engineering details.
+- This presentation is intended for fundraising, sponsorships, CSR partnerships, NGOs, healthcare collaborations, and investors.
+- The PPT should feel emotional, visionary, trustworthy, culturally authentic, highly professional, and socially impactful.
+
+------------------------------------------------------------
+PRESENTATION THEME & COLOR STYLE
+------------------------------------------------------------
+
+Use a premium modern healthcare presentation style with a balanced mixture of BOTH light and dark themes.
+
+Theme Style Requirements:
+- Alternate between elegant light-theme slides and premium dark-theme slides
+- Maintain visual consistency throughout the presentation
+- Use smooth transitions between themes
+- Keep slides clean, modern, and cinematic
+
+Color Palette:
+- Healthcare Blue
+- Emerald Green
+- White
+- Soft Teal
+- Himalayan Earthy Brown accents
+- Deep Navy backgrounds for dark slides
+- Light cream/white gradients for light slides
+
+Dark Theme Slides:
+- Use deep navy, dark blue, and black gradients
+- Add glowing healthcare accents
+- Use premium cinematic overlays
+- White typography with subtle blue/green highlights
+
+Light Theme Slides:
+- Use soft white and light blue backgrounds
+- Minimal modern layouts
+- Elegant healthcare-themed gradients
+- Clean infographic styling
+
+Design Style:
+- Healthcare + NGO + Himachali cultural branding
+- Elegant typography
+- Modern premium layouts
+- Cinematic storytelling
+- Investor-ready professional appearance
+- Modern infographic sections
+- Premium iconography
+- Smooth animations and transitions
+- World-class presentation quality
+
+------------------------------------------------------------
+CONTENT & IMAGE FORMATTING REQUIREMENTS
+------------------------------------------------------------
+
+Every slide must have:
+- Proper heading hierarchy
+- Professionally formatted content
+- Balanced spacing and alignment
+- Modern typography
+- Concise but impactful text
+- Premium image placement
+- Clean infographic layouts
+- Visual storytelling structure
+
+Formatting Guidelines:
+- Large premium headings
+- Medium-sized concise content blocks
+- Highlight key points with icons or accent colors
+- Avoid overcrowded slides
+- Use 40% content + 60% visuals approach
+- Use alternating left-right image/content layouts
+- Use modern cards, overlays, and gradient sections
+- Maintain readability on both dark and light slides
+
+Image Guidelines:
+- Use premium cinematic healthcare visuals
+- Use realistic and emotional imagery
+- Blend visuals naturally into layouts
+- Use subtle dark overlays on images for readability
+- Add modern healthcare infographics and icons
+- Use high-resolution professional visuals only
+
+------------------------------------------------------------
+IMPORTANT HIMACHAL-FOCUSED ELEMENTS
+------------------------------------------------------------
+
+Throughout the presentation, naturally include:
+
+- Himachal Pradesh mountain landscapes
+- Rural Himachali villages
+- Himachali culture and traditions
+- People wearing Himachali caps
+- Himachali youth volunteers
+- Local healthcare challenges in hilly regions
+- Healthcare accessibility in mountain areas
+- Community spirit of Himachal Pradesh
+- Nature and peaceful environment of Himachal
+- Himachali hospitality and unity
+- Local schools and colleges in Himachal
+- Healthcare awareness programs in villages and remote areas
+
+The presentation should clearly communicate:
+“Swasth Bharat is a healthcare movement inspired by the spirit, culture, and people of Himachal Pradesh.”
+
+------------------------------------------------------------
+IMPORTANT IMAGE INSTRUCTIONS
+------------------------------------------------------------
+
+Every slide must contain premium high-quality healthcare-related and Himachal-focused images relevant to the slide topic.
+
+Use visuals of:
+- Himachali people wearing traditional Himachali caps
+- Doctors helping people in mountain villages
+- Healthcare camps in Himachal Pradesh
+- Blood donation drives in local communities
+- Organ and eye donation awareness programs
+- School and college awareness activities
+- Volunteers helping rural communities
+- Himachali youth participating in healthcare initiatives
+- Villages, valleys, mountains, and scenic Himachal landscapes
+- NGO and healthcare volunteers working in remote regions
+
+Use realistic cinematic visuals with:
+- Modern overlays
+- Gradient blending
+- Soft shadows
+- Rounded layouts
+- Professional image framing
+- Clean spacing and alignment
+
+------------------------------------------------------------
+SLIDE 1 — COVER PAGE
+------------------------------------------------------------
+
+Title:
+“Swasth Bharat”
+
+Subtitle:
+“Building a Healthier, More Aware, and Compassionate India”
+
+Add:
+“A Healthcare Awareness Initiative Born in Himachal Pradesh”
+
+Theme:
+Dark cinematic premium theme
+
+Include Images:
+- Himachal mountain landscapes
+- Healthcare workers and volunteers
+- Himachali people wearing traditional caps
+- Rural healthcare awareness visuals
+
+------------------------------------------------------------
+SLIDE 2 — HIMACHAL PRADESH & THE HEALTHCARE CHALLENGE
+------------------------------------------------------------
+
+Highlight:
+- Healthcare accessibility challenges in hilly and remote areas
+- Limited healthcare awareness in rural regions
+- Lack of awareness regarding blood, eye, and organ donation
+- Difficult access to healthcare services in mountain communities
+- Need for preventive healthcare awareness
+
+Theme:
+Light modern healthcare theme
+
+Include Images:
+- Rural Himachal villages
+- Mountain roads and remote communities
+- Local healthcare outreach visuals
+
+------------------------------------------------------------
+SLIDE 3 — WHAT IS SWASTH BHARAT?
+------------------------------------------------------------
+
+Explain:
+- Healthcare awareness and social welfare initiative
+- Community-driven healthcare movement
+- Mission inspired by Himachali values and service
+
+Theme:
+Dark premium NGO-style theme
+
+Include Images:
+- Community healthcare programs
+- Doctors interacting with villagers
+- Healthcare volunteers
+
+------------------------------------------------------------
+SLIDE 4 — OUR PURPOSE, MISSION & VALUES
+------------------------------------------------------------
+
+Explain:
+- Improve healthcare awareness
+- Increase healthcare accessibility
+- Promote preventive healthcare
+- Encourage donation awareness
+- Empower communities
+
+Theme:
+Light premium infographic theme
+
+Include Images:
+- Volunteers helping communities
+- Rural outreach programs
+- Inspirational healthcare visuals
+
+------------------------------------------------------------
+SLIDE 5 — OUR VISION FOR HIMACHAL & INDIA
+------------------------------------------------------------
+
+Present:
+- Healthcare awareness reaching every village
+- Expansion from Himachal Pradesh to all India
+- Empowered healthcare ecosystem
+
+Theme:
+Dark futuristic healthcare theme
+
+Include Images:
+- Himachal villages and cities
+- Future healthcare visuals
+- Scenic mountain landscapes
+
+------------------------------------------------------------
+SLIDE 6 — HEALTHCARE AWARENESS CAMPAIGNS
+------------------------------------------------------------
+
+Cover:
+- Public awareness drives
+- Rural outreach initiatives
+- Community seminars and workshops
+
+Theme:
+Light modern healthcare theme
+
+Include Images:
+- Awareness events
+- Healthcare workshops
+- Himachali communities participating
+
+------------------------------------------------------------
+SLIDE 7 — FREE MEDICAL CAMPS & HEALTH CHECKUPS
+------------------------------------------------------------
+
+Explain:
+- Free healthcare camps
+- Health checkup drives
+- Rural healthcare support
+
+Theme:
+Dark cinematic healthcare theme
+
+Include Images:
+- Rural medical camps
+- Doctors helping villagers
+- Mobile healthcare units
+
+------------------------------------------------------------
+SLIDE 8 — SCHOOL & COLLEGE HEALTHCARE ACTIVITIES
+------------------------------------------------------------
+
+Explain:
+- Student volunteer initiatives
+- Healthcare awareness in educational institutions
+- Youth engagement programs
+
+Theme:
+Light youth-focused modern theme
+
+Include Images:
+- Students participating in healthcare activities
+- College awareness seminars
+- Youth volunteers in Himachali caps
+
+------------------------------------------------------------
+SLIDE 9 — BLOOD DONATION AWARENESS
+------------------------------------------------------------
+
+Explain:
+- Importance of blood donation
+- Organizing donation drives
+- Saving lives through participation
+
+Theme:
+Dark red-accent healthcare theme
+
+Include Images:
+- Blood donation camps
+- Donors and medical staff
+- Community participation visuals
+
+------------------------------------------------------------
+SLIDE 10 — EYE & ORGAN DONATION AWARENESS
+------------------------------------------------------------
+
+Explain:
+- Eye donation awareness
+- Organ donation awareness
+- Breaking myths and misconceptions
+
+Theme:
+Light emotional storytelling theme
+
+Include Images:
+- Organ donation campaigns
+- Inspirational healthcare imagery
+- Doctors and volunteers
+
+------------------------------------------------------------
+SLIDE 11 — COMMUNITY IMPACT & SOCIAL CHANGE
+------------------------------------------------------------
+
+Show:
+- Increased healthcare awareness
+- Community empowerment
+- Rural healthcare transformation
+
+Theme:
+Dark premium impact-report style theme
+
+Include Images:
+- Smiling families and patients
+- Social impact visuals
+- Healthcare transformation imagery
+
+------------------------------------------------------------
+SLIDE 12 — ROADMAP
+------------------------------------------------------------
+
+Create:
+- Modern roadmap timeline
+- Expansion milestones
+- Awareness campaign phases
+
+Theme:
+Light futuristic infographic theme
+
+Include Images:
+- Himachal maps
+- Timeline graphics
+- Expansion visuals
+
+------------------------------------------------------------
+SLIDE 13 — FUTURE GROWTH & EXPANSION
+------------------------------------------------------------
+
+Present:
+- Expansion across India
+- NGO and hospital partnerships
+- Sustainable healthcare ecosystem
+
+Theme:
+Dark futuristic premium theme
+
+Include Images:
+- India expansion maps
+- Growth charts
+- Visionary healthcare visuals
+
+------------------------------------------------------------
+SLIDE 14 — WHY SUPPORT SWASTH BHARAT?
+------------------------------------------------------------
+
+Explain:
+- High social impact
+- Nationwide scalability
+- Long-term healthcare transformation
+
+Theme:
+Light investor-focused presentation theme
+
+Include Images:
+- Investor collaboration visuals
+- Partnership imagery
+- Social impact graphics
+
+------------------------------------------------------------
+SLIDE 15 — CALL TO ACTION & THANK YOU
+------------------------------------------------------------
+
+Title:
+“Together We Can Build a Healthier India”
+
+Closing Subtitle:
+“From the Hills of Himachal Pradesh to the Heart of India”
+
+Theme:
+Dark cinematic emotional closing theme
+
+Include Images:
+- Himachali volunteers and healthcare workers
+- Communities standing together
+- Mountain landscapes with healthcare symbolism
+
+------------------------------------------------------------
+ADDITIONAL INSTRUCTIONS
+------------------------------------------------------------
+
+- Maintain premium investor-ready design throughout the presentation
+- Use emotionally impactful storytelling
+- Use alternating dark and light theme slides for premium visual appeal
+- Ensure proper formatting, spacing, alignment, and typography
+- Blend healthcare awareness with Himachali cultural identity naturally
+- Use infographic-style storytelling and modern charts
+- Ensure every slide contains healthcare and Himachal-related visuals
+- Balance professionalism, emotion, healthcare awareness, community empowerment, and future growth throughout the deck
+- Presentation should feel scalable, trustworthy, visionary, culturally authentic, and socially impactful
