@@ -14,6 +14,7 @@ import YouthEngagementSlide from './components/slides/YouthEngagementSlide';
 import BloodDonationSlide from './components/slides/BloodDonationSlide';
 import OrganDonationSlide from './components/slides/OrganDonationSlide';
 import ImpactSlide from './components/slides/ImpactSlide';
+import PlatformSlide from './components/slides/PlatformSlide';
 import RoadmapSlide from './components/slides/RoadmapSlide';
 import FutureGrowthSlide from './components/slides/FutureGrowthSlide';
 import SupportSlide from './components/slides/SupportSlide';
@@ -31,10 +32,11 @@ const slides = [
   <BloodDonationSlide key="slide-8" />,
   <OrganDonationSlide key="slide-9" />,
   <ImpactSlide key="slide-10" />,
-  <RoadmapSlide key="slide-11" />,
-  <FutureGrowthSlide key="slide-12" />,
-  <SupportSlide key="slide-13" />,
-  <FinalSlide key="slide-14" />
+  <PlatformSlide key="slide-11" />,
+  <RoadmapSlide key="slide-12" />,
+  <FutureGrowthSlide key="slide-13" />,
+  <SupportSlide key="slide-14" />,
+  <FinalSlide key="slide-15" />
 ];
 
 export default function App() {
