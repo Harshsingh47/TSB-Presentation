@@ -1,61 +1,96 @@
-import { Droplet } from 'lucide-react';
+import React from 'react';
+import { Droplet, Heart, Users, Activity } from 'lucide-react';
 import { motion } from 'motion/react';
 
 export default function BloodDonationSlide() {
   const stats = [
-    { title: "Life-Saving", desc: "One donation can save up to 3 lives" },
-    { title: "Regular Camps", desc: "Monthly blood donation drives across Himachal" },
-    { title: "Community", desc: "Building a network of voluntary donors" }
+    { 
+      title: "Life-Saving", 
+      desc: "One donation can save up to 3 lives",
+      icon: <Heart className="w-6 h-6 text-rose-500" />
+    },
+    { 
+      title: "Regular Camps", 
+      desc: "Monthly drives across remote Himachal regions",
+      icon: <Activity className="w-6 h-6 text-rose-500" />
+    },
+    { 
+      title: "Community", 
+      desc: "Building a network of voluntary donors",
+      icon: <Users className="w-6 h-6 text-rose-500" />
+    }
   ];
 
   return (
-    <div className="size-full bg-gradient-to-br from-slate-900 via-rose-950 to-slate-900 flex items-center justify-center p-16 relative overflow-hidden">
-      <div className="absolute inset-0 opacity-20">
+    <div className="w-full h-full relative flex items-center justify-center overflow-hidden font-sans">
+      {/* Immersive Background */}
+      <div className="absolute inset-0">
         <img
-          src="https://images.unsplash.com/photo-1653508311233-65033d5860d1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwyfHxibG9vZCUyMGRvbmF0aW9uJTIwY2FtcCUyMHZvbHVudGVlcnN8ZW58MXx8fHwxNzc4MzkyNjMxfDA&ixlib=rb-4.1.0&q=80&w=1080"
-          alt="Blood Donation"
+          src="/image6.png"
+          alt="Blood Donation Campaign"
           className="w-full h-full object-cover"
         />
+        {/* Stronger Overlay for Readability */}
+        <div className="absolute inset-0 bg-slate-950/70 backdrop-blur-[4px]"></div>
+        <div className="absolute inset-0 bg-gradient-to-t from-slate-950 via-transparent to-slate-950/40"></div>
       </div>
-      <div className="relative z-10 max-w-5xl text-center">
+
+      <div className="relative z-10 max-w-5xl w-full px-12 text-center py-10">
         <motion.div 
-          initial={{ opacity: 0, scale: 0.8 }}
-          whileInView={{ opacity: 1, scale: 1 }}
-          className="flex items-center justify-center gap-3 mb-8"
-        >
-          <Droplet className="w-16 h-16 text-rose-400" />
-          <h2 className="text-6xl font-bold text-white">Blood Donation Awareness</h2>
-        </motion.div>
-        <motion.p 
-          initial={{ opacity: 0, y: 20 }}
+          initial={{ opacity: 0, y: -20 }}
           whileInView={{ opacity: 1, y: 0 }}
-          transition={{ delay: 0.2 }}
-          className="text-3xl text-blue-200 mb-12 font-light"
+          transition={{ duration: 0.8 }}
+          className="flex flex-col items-center gap-3 mb-8"
         >
-          Every Drop Counts. Every Donor is a Hero.
+          <div className="p-4 bg-rose-600 rounded-full shadow-2xl shadow-rose-600/30 animate-pulse">
+            <Droplet className="w-8 h-8 text-white fill-white" />
+          </div>
+          <h2 className="text-[10px] font-bold text-rose-400 tracking-[0.4em] uppercase">Emergency Response</h2>
+          <h1 className="text-6xl font-black text-white leading-tight">
+            Blood Donation <br />
+            <span className="bg-clip-text text-transparent bg-gradient-to-r from-rose-400 to-orange-400">
+              Awareness
+            </span>
+          </h1>
+        </motion.div>
+
+        <motion.p 
+          initial={{ opacity: 0 }}
+          whileInView={{ opacity: 1 }}
+          transition={{ delay: 0.3 }}
+          className="text-lg text-slate-300 mb-12 max-w-2xl mx-auto font-medium italic italic-none"
+        >
+          "Every Drop Counts. Every Donor is a Hero."
         </motion.p>
-        <div className="grid grid-cols-3 gap-8">
+
+        <div className="grid grid-cols-3 gap-6 max-w-4xl mx-auto">
           {stats.map((stat, index) => (
             <motion.div
               key={index}
-              initial={{ opacity: 0, y: 30 }}
-              whileInView={{ opacity: 1, y: 0 }}
-              transition={{ delay: 0.4 + index * 0.1 }}
-              className="backdrop-blur-md bg-white/10 p-8 rounded-2xl border border-rose-400/30"
+              initial={{ opacity: 0, scale: 0.9 }}
+              whileInView={{ opacity: 1, scale: 1 }}
+              transition={{ delay: 0.4 + index * 0.15, duration: 0.5 }}
+              className="group backdrop-blur-2xl bg-white/5 p-6 rounded-2xl border border-white/10 hover:border-rose-500/50 hover:bg-white/10 transition-all duration-500"
             >
-              <div className="text-5xl font-bold text-rose-400 mb-3">{stat.title}</div>
-              <p className="text-xl text-white">{stat.desc}</p>
+              <div className="flex justify-center mb-4 transition-transform duration-500 group-hover:scale-110">
+                <div className="p-3 bg-white/5 rounded-xl">
+                  {stat.icon}
+                </div>
+              </div>
+              <h3 className="text-lg font-bold text-white mb-1.5">{stat.title}</h3>
+              <p className="text-slate-400 text-xs leading-relaxed px-2">{stat.desc}</p>
             </motion.div>
           ))}
         </div>
+
         <motion.div 
-          initial={{ opacity: 0 }}
-          whileInView={{ opacity: 1 }}
+          initial={{ opacity: 0, y: 15 }}
+          whileInView={{ opacity: 1, y: 0 }}
           transition={{ delay: 0.8 }}
-          className="mt-12 backdrop-blur-md bg-rose-500/20 p-6 rounded-2xl border border-rose-400/30"
+          className="mt-12 inline-block backdrop-blur-lg bg-rose-600/5 px-6 py-3 rounded-full border border-rose-500/20"
         >
-          <p className="text-2xl text-white font-light">
-            Breaking myths, saving lives, and creating a culture of compassionate giving
+          <p className="text-sm text-rose-100/80 font-medium tracking-wide">
+            Breaking myths, saving lives, and creating a culture of compassionate giving.
           </p>
         </motion.div>
       </div>

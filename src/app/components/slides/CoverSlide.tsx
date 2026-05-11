@@ -32,7 +32,7 @@ export default function CoverSlide() {
           transition={{ delay: 0.2 }}
           className="text-7xl font-bold text-white mb-6 tracking-tight"
         >
-          Swasth Bharat
+          The Swasth Bharat
         </motion.h1>
         <motion.p 
           initial={{ opacity: 0, y: 20 }}

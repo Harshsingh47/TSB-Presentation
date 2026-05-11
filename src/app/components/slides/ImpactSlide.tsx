@@ -12,7 +12,7 @@ export default function ImpactSlide() {
     <div className="size-full bg-gradient-to-br from-slate-900 via-emerald-900 to-slate-900 flex items-center relative overflow-hidden">
       <div className="w-1/2 h-full relative">
         <img
-          src="https://images.unsplash.com/photo-1774504798113-a03e2aa24789?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHw1fHxtZWRpY2FsJTIwY2FtcCUyMGhlYWx0aGNhcmUlMjB3b3JrZXJzJTIwY29tbXVuaXR5fGVufDF8fHx8MTc3ODM5MjYzMXww&ixlib=rb-4.1.0&q=80&w=1080"
+          src="/image4.png"
           alt="Community Impact"
           className="w-full h-full object-cover opacity-40"
         />
